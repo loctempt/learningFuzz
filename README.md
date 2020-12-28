@@ -25,11 +25,11 @@ git push
 
 ##### 安装git
 
-Windows：[下载安装包](https://git-scm.com/download/win)
-
-Linux: `sudo apt install git`
-
-Mac: 安装Xcode *或者* 利用[Homebrew](https://brew.sh/)`brew install git`
+|平台|方法|
+|---|---|
+|Windows|[下载安装包](https://git-scm.com/download/win)|
+|Linux| `sudo apt install git`|
+|Mac| 安装Xcode *或者* 利用[Homebrew](https://brew.sh/)`brew install git`|
 
 ##### 注册GitHub账号
 
