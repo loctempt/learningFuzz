@@ -1,7 +1,6 @@
-#本仓库已经转移至[私有仓库](https://github.com/loctempt/learnFuzzPrivate)，请联系jxy使用之。
+# 本仓库已经转移至[私有仓库](https://github.com/loctempt/learnFuzzPrivate)，请联系jxy使用之。
 
-<br>
-<br>
+
 # ✅​Learning 美国长毛垂耳兔子（American Fuzzy Lop）
 
 以markdown格式记录上课时提到的要点概况，便于复习。​​
