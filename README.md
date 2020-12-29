@@ -1,3 +1,7 @@
+#本仓库已经转移至[私有仓库](https://github.com/loctempt/learnFuzzPrivate)，请联系jxy使用之。
+
+<br>
+<br>
 # ✅​Learning 美国长毛垂耳兔子（American Fuzzy Lop）
 
 以markdown格式记录上课时提到的要点概况，便于复习。​​
@@ -35,13 +39,13 @@ git push
 
 点击当前页面右上角的`Sign up`，注册账号
 
-##### clone本仓库
+##### 加入私有仓库
 
-切换到合适的目录，执行以下命令：
+联系jxy添加访问权限
 
-```shell
-git clone git@github.com:loctempt/learningFuzz.git
-```
+##### Clone私有仓库
+
+见私有仓库地址
 
 #### :congratulations: YOU ARE READY TO GO! :congratulations:
 
